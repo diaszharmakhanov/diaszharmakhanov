@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @diaszharmakhanov
+- 👀 I’m interested in Web
+- 🌱 I’m currently learning Figma
+- 💞️ I’m looking to collaborate on Adobe
+- 📫 dias.zharmakhanov@protonmail.com
